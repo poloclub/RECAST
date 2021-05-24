@@ -1,6 +1,6 @@
 # RECAST
 
-Enabling User Recourse and Interpretability of Toxicity Detection Models with Interactive Visualization
+An Interactive System to Understand End-User Recourse and Interpretability of Toxicity Detection Models
 
 [![arxiv badge](https://img.shields.io/badge/arXiv-2102.04427-red)](https://arxiv.org/abs/2102.04427)
 
