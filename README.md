@@ -25,6 +25,12 @@ git clone 'repo'
 degit 'repo'
 ```
 
+## Consent Form
+
+RECAST's "alternative suggestions" feature generates non-toxic alternatives to toxic text. In some instances, however, Recast recommends human-labeled toxic alternatives that are not detected as toxic by the backend model. Completing [this form](https://forms.gle/aNdrZ5TSNnG9WLSb9) indicates that a user/researcher agrees to not use Recast for the purpose of *maliciously* circumventing deployed toxicity classifiers. 
+
+As a precaution, we've withheld the trained Jigsaw model that Recast uses to generate these alternatives. Though it is possible to train a model on your own, completing this form will notify an author to send over a trained model file.
+
 ## Credits
 
 RECAST was created by 
